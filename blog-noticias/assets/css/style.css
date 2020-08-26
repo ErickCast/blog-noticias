@@ -1,0 +1,25 @@
+body{
+	background: url("../img/fondo.jpg") !important;
+
+}
+.web{
+	background: #fff;
+}
+
+.social i{
+	width: 45px;
+}
+nav li{
+	border-right: 1px solid white;
+}
+nav li:hover{
+	background: green;
+}
+nav li a{
+	color:white !important;
+}
+
+.footer{
+	
+	margin-top: 40px;
+}
